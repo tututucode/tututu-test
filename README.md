@@ -1,7 +1,9 @@
 # Test Repository
 
 ## Purpose
-This repository is used for tesy
+This repository is used to show screenshot.
+![Uploading image.png…]()
+
 
 ## Files
 - `README.md`: This documentation file
