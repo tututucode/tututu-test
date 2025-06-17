@@ -2,7 +2,7 @@
 
 ## Purpose
 This repository is used to show screenshot.
-![Uploading image.png…]()
+![image](gemini.png)
 
 
 ## Files
